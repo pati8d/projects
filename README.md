@@ -30,7 +30,7 @@
 
 Используемые библиотеки: Pandas, Matplotlib, Seaborn, Plotly, NumPy
 
-|This is   |a simple   |table header|
+|Название проекта   |Описание   |Библиотеки|
 |----------|-----------|------------|
 |table     |data       |here        |
 |it doesn't|actually   |have to line up nicely!|
